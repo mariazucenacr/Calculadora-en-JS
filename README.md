@@ -6,4 +6,4 @@ Dentro del Script encontraremos las 3 funciones principales para el correcto fun
 * calcular()
 * borrar()
 
-Resultado: [Calculadora Simple](https://calculadora-en-js-mcr.netlify.app/))
+Resultado: [Calculadora Simple](https://calculadora-en-js-mcr.netlify.app/)
